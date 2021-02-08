@@ -1,0 +1,59 @@
+.backdiv{
+
+	align-items: center;
+	justify-content: center;
+	display: block;
+	background-color: #eee;
+}
+
+header{
+	margin: 100px 150px;
+
+}
+.textcenter{
+	text-align: center;
+	padding-top: 20px;
+}
+
+img{
+	border-radius: 50%;
+}
+
+.bottomtext{
+	padding-left: 100px;
+}
+
+.textrr {
+		  border: 1px solid #D5D8DC;
+          margin: 10px 10px;
+}
+
+
+.textcenter1{
+	margin-top: 10px;
+	text-align: center;
+	border: 1px solid #D5D8DC;
+	margin: 10px 10px;
+}
+
+.textcenter1 p{
+	  border: 1px solid #D5D8DC;
+      margin: 10px 10px;
+      background-color: #ABB2B9;
+      padding: 8px;
+}
+
+
+.nicheka{
+	padding-top: 20px;
+	text-align: center;
+	padding-bottom: 40px;
+
+}
+.nicheka a{
+	text-decoration: none;
+}
+
+.botton{
+	padding-top: 50px;
+}
